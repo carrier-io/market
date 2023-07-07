@@ -239,7 +239,7 @@
       "metadata": "https://raw.githubusercontent.com/carrier-io/aws_integration/beta-1.0/metadata.json"
     }
   },
-  "azure_devops": {
+  "azure_devops_integration": {
     "source": {
       "type": "git",
       "source": "https://github.com/carrier-io/azure_devops_integration.git",
@@ -277,16 +277,6 @@
     },
     "objects": {
       "metadata": "https://raw.githubusercontent.com/carrier-io/gcp_integration/beta-1.0/metadata.json"
-    }
-  },
-  "system_reporter_email": {
-    "source": {
-      "type": "git",
-      "source": "https://github.com/carrier-io/system_reporter_email.git",
-      "branch": "beta-1.0"
-    },
-    "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/system_reporter_email/beta-1.0/metadata.json"
     }
   },
   "s3_integration": {
