@@ -24,7 +24,7 @@ preordered_plugins:
   - security_sast
   - security_dependency
   - security_analysis
-  - security_scanner_qualys
+  # - security_scanner_qualys
   - security_scanner_nikto
   - security_scanner_nmap
   - security_scanner_sslyze
