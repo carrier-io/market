@@ -3,10 +3,10 @@
     "source": {
       "type": "git",
       "source": "https://github.com/carrier-io/market.git",
-      "branch": "selinux_ssl"
+      "branch": "cc03b0ea16fa436613f68e8a962f551ebe41c5d0"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/market/selinux_ssl/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/carrier-io/market/cc03b0ea16fa436613f68e8a962f551ebe41c5d0/metadata.json"
     }
   },
   "design-system": {
