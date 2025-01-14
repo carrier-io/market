@@ -139,6 +139,16 @@
       "metadata": "https://raw.githubusercontent.com/carrier-io/secrets/main/metadata.json"
     }
   },
+  "performance_test_suite": {
+    "source": {
+      "type": "git",
+      "source": "https://github.com/carrier-io/performance_test_suite.git",
+      "branch": "main"
+    },
+    "objects": {
+      "metadata": "https://raw.githubusercontent.com/carrier-io/performance_test_suite/main/metadata.json"
+    }
+  },
   "backend_performance": {
     "source": {
       "type": "git",
