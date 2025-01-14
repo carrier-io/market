@@ -3,10 +3,10 @@
     "source": {
       "type": "git",
       "source": "https://github.com/carrier-io/market.git",
-      "branch": "main"
+      "branch": "beta-3.0"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/market/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/carrier-io/market/beta-3.0/metadata.json"
     }
   },
   "design-system": {
@@ -183,10 +183,10 @@
     "source": {
       "type": "git",
       "source": "https://github.com/carrier-io/integrations.git",
-      "branch": "main"
+      "branch": "beta-3.0"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/integrations/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/carrier-io/integrations/beta-3.0/metadata.json"
     }
   },
   "reporter_email": {
@@ -303,10 +303,10 @@
     "source": {
       "type": "git",
       "source": "https://github.com/carrier-io/s3_integration.git",
-      "branch": "main"
+      "branch": "beta-3.0"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/s3_integration/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/carrier-io/s3_integration/beta-3.0/metadata.json"
     }
   },
   "email_base": {
