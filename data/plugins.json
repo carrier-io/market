@@ -43,20 +43,20 @@
     "source": {
       "type": "git",
       "source": "https://github.com/carrier-io/auth_root.git",
-      "branch": "main"
+      "branch": "beta-3.0"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_root/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_root/beta-3.0/metadata.json"
     }
   },
   "auth_manager": {
     "source": {
       "type": "git",
       "source": "https://github.com/carrier-io/auth_manager.git",
-      "branch": "main"
+      "branch": "beta-3.0"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_manager/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_manager/beta-3.0/metadata.json"
     }
   },
   "auth_core": {
